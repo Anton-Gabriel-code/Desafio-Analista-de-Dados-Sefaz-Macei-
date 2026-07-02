@@ -1,0 +1,8 @@
+# Bibliotecas utilizadas no projeto
+pandas
+pyarrow
+duckdb
+matplotlib
+seaborn
+jupyter
+ipykernel
