@@ -8,7 +8,7 @@ pkgs.mkShell {
             python-pkgs.pyarrow
             python-pkgs.duckdb
             python-pkgs.matplotlib
-            python-pkgss.seaborn
+            python-pkgs.seaborn
             python-pkgs.ipykernel
         ]))
     ];
